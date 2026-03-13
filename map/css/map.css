@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    background-image: url('map.png');
+    background-size:1000px;
+    background-position:top;
+    background-repeat: no-repeat;
+    margin: 0;
+    position: absolute;
+}
+
+.a,.b,.c,.d,.e,.f,.g,.h,.i,.j {
+    width: 110px;
+    padding: 10px;
+    position: fixed;
+}
+.a {
+    top: 450px;
+    left: 900px;
+}
+
+.b {
+    top: 80px;
+    left: 500px;
+}
+
+.c {
+    top: 330px;
+    left: 650px;
+}
+
+.d {
+    top: 270px;
+    left: 430px;
+}
+
+.e {
+    top: 430px;
+    left: 480px;
+}
+
+.f {
+    top: 660px;
+    left: 540px;
+}
+
+.g {
+    left: 180px;
+    top: 200px;
+}
+
+.h {
+    left: 180px;
+    top:280px;
+}
+
+.i {
+    left: 200px;
+    top: 340px;
+}
+
+.j {
+    left: 180px;
+    top: 580px;
+}
+
+.a button,.b button,.c button,.d button,.e button,.f button,.g button,.h button,.i button,.j button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
