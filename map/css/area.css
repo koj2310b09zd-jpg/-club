@@ -1,0 +1,23 @@
+
+.center{
+    text-align: center;
+}
+
+.toHome{
+    text-align: right;
+}
+.picture{
+    display: block;
+    width: 600px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.big{
+    font-size: 30px;
+    width: 300px;
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
